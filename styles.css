@@ -10,8 +10,8 @@
 /* Define the output font */
 @font-face {
     font-family: 'OutputFont';
-    src: url('fonts/NotoSans.woff2') format('woff2'),
-         url('fonts/NotoSans.woff') format('woff');
+    src: url('fonts/NotoSansKannada.woff2') format('woff2'),
+         url('fonts/NotoSansKannada.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
